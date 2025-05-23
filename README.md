@@ -36,5 +36,3 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 </details>
 
 ---
-
-Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
