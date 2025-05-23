@@ -1,4 +1,5 @@
-# GitHub README Chess Tournament
+# WELCOME TO MY PROFILE
+# TESTING, WAIT
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
 It's your turn to play! Move a <!-- BEGIN TURN -->?<!-- END TURN --> piece.
