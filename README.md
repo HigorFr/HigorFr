@@ -1,7 +1,8 @@
 # WELCOME TO MY PROFILE
-# TESTING, WAIT
+My name is Higor, and I'm a information systems undergraduate of the University of São Paulo.
 
-This is an open chess tournament where ANYONE can play. That's the fun part.  
+
+Here, why dont you play some chess?
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
