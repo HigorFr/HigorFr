@@ -26,7 +26,7 @@
 
 <div align="center">
   <p>Let's connect on LinkedIn:</p>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/higor-gfreitas/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" alt="LinkedIn" />
   </a>
 </div>
