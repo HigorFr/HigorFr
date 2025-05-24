@@ -34,22 +34,11 @@
 <hr>
 
 <div align="center">
-  <p>Thanks for visiting my GitHub profile!</p>
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" />
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/seu-usuario-github/count.svg" alt="hit counter" />
-</div>
-
-<div align="center">
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" width="128" />
+  <p>Also, why dont you play some chess?</p>
 </div>
 
 
 
-
-Here, why dont you play some chess?
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
@@ -118,3 +107,7 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 </details>
 
 ---
+<div align="center">
+  <p>Thanks for visiting my GitHub profile!</p>
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" />
+</div>
