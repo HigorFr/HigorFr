@@ -39,9 +39,7 @@
 
 <hr>
 
-<div align="center">
-  <p>Also, why dont you play some chess?</p>
-</div>
+
 
 <!-- 
 
