@@ -50,10 +50,13 @@ I am particularly interested in applying computational models to real-world prob
 
 
 ## Contact
-
+I am available for contact regarding academic and professional opportunities.
 <div align="center">
+  <a href="mailto:higor.freitas@usp.br">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email" />
+  </a>
   <a href="https://www.linkedin.com/in/higor-gfreitas/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
-
   </a>
 </div>
+
