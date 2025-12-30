@@ -57,7 +57,7 @@ I am available for contact regarding academic and professional opportunities.
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
   </a>
   <a href="mailto:higor.freitas@usp.br">
-    <img src="[https://cdn-icons-png.flaticon.com/512/732/732200.png](https://cdn-icons-png.flaticon.com/512/893/893257.png)" width="40" alt="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/893/893257.png" width="40" alt="Email" />
   </a>
 
   
