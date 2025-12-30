@@ -1,53 +1,59 @@
 <div align="center">
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" />
-</div>
-
-<div align="center">
-  <h1>Hello, I'm Higor 👋</h1>
+  <h1>Higor Gabriel de Freitas</h1>
   <p>
-    I'm an Information Systems undergraduate at <strong>University of São Paulo (USP)</strong>.<br>
-    I’m passionate about <strong>Artificial Intelligence</strong>, <strong>Data Science</strong>, and <strong>Data Modeling</strong>.
+    Undergraduate Student in Information Systems<br>
+    <strong>University of São Paulo (USP)</strong>
   </p>
 </div>
 
-<hr>
+---
 
-<div align="center">
-  <p>Here are some of the technologies I work with:</p>
-  <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java" />
-    <img src="https://devicon-website.vercel.app/api/c/original.svg"  width="48" alt="C" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="SQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" />
+## About Me
 
+I am an undergraduate student in Information Systems at the University of São Paulo (USP), with academic and practical interests focused on:
 
+- Artificial Intelligence and Machine Learning  
+- Data Science and Data Modeling  
+- Software Development and Systems Design  
 
-  </div>
+I am particularly interested in applying computational models to real-world problems, combining theoretical foundations with practical implementation.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java" />
+  <img src="https://devicon-website.vercel.app/api/c/original.svg" width="42" alt="C" />
 </div>
 
-<hr>
+### Data & Web Technologies
+<div>
+  
+  <img src="https://www.svgrepo.com/show/374022/qlikview.svg" width="44" alt="QlikView/QlikSense" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="42" alt="Anaconda" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" alt="CSS3" />
+</div>
+
+### Tools & Others
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" alt="Jupyter" />
+</div>
+
+---
+
+
+## Contact
 
 <div align="center">
-  <p>Let's connect on LinkedIn:</p>
   <a href="https://www.linkedin.com/in/higor-gfreitas/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" alt="LinkedIn" />
+
   </a>
-</div>
-
-<hr>
-
-
-
-<!-- 
-
-
--->
-
-
-<div align="center">
-  <p>Thanks for visiting my GitHub profile!</p>
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" />
 </div>
