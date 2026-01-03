@@ -16,7 +16,7 @@ I am an undergraduate student in Information Systems at the University of São P
 - Data Science and Data Modeling  
 - Software Development and Systems Design  
 
-I am particularly interested in applying computational models to real-world problems, combining theoretical foundations with practical implementation.
+I enjoy applying computational theory models to real-world problems, as well as entertainment-related applications.
 
 ---
 
