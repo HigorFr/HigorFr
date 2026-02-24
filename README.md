@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Higor Gabriel de Freitas</h1>
   <p>
-    Information Systems Undergraduate<br>
+    Undergraduate student in [Information Systems](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N) at the University of São Paulo (USP).<br>
     <strong>University of São Paulo (USP)</strong>
   </p>
 </div>
