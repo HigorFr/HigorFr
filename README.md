@@ -5,7 +5,6 @@
     <a href="https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N">
       Information Systems
     </a> 
-    at the University of São Paulo (USP).
     <br>
     <strong>University of São Paulo (USP)</strong>
   </p>
