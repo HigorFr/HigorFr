@@ -33,7 +33,7 @@ Undergraduate student focused on Artificial Intelligence, Data Science and Softw
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/higor-gfreitas/)
 
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higor.freitas@usp.br)
+[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higor.gdfreitas@gmail.com)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=googledocs&logoColor=white)](https://higorfr.github.io/)
 
