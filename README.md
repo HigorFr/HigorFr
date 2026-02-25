@@ -35,7 +35,7 @@ Undergraduate student focused on Artificial Intelligence, Data Science and Softw
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higor.freitas@usp.br)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://higorfr.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=googledocs&logoColor=white)](https://higorfr.github.io/)
 
 
 
