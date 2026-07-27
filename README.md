@@ -14,7 +14,7 @@
 
 ## About
 
-Undergraduate student focused on Artificial Intelligence, Data Science and Software Development, applying computational models to real-world systems.
+Undergraduate student focused on Artificial Intelligence, Data Science and Software Development.
 
 ---
 
